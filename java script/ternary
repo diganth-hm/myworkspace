@@ -1,0 +1,11 @@
+let age =19;
+let text =(age <18)? "minor":"adult";
+console.log (text);
+let b=8;
+let c=64;
+let division=(b<=0)? "not divisible by Zero":c/b;
+//console.log(division)
+//check whether the number is even or odd 
+let num1=244;
+let result=(num1%2==0)?"even":"odd";
+console.log(result);
