@@ -1,4 +1,0 @@
-let age=42;
-let name='jhone'
-const lastname='doeing'
-let mychar='gbh'
